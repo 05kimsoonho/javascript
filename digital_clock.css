@@ -1,0 +1,17 @@
+*{
+    text-align: center;
+    position: relative;
+    top: 50px;
+}
+body{
+    background-color: rgb(68, 168, 175);
+}
+.data{
+    font-size: 45px;
+    color: blueviolet;
+}
+.time{
+    font-size: 100px;
+    font-weight: bold;
+    color: rgb(221, 205, 205);
+}
